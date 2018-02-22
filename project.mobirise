@@ -25,7 +25,9 @@
     "versionFirst": "4.6.3",
     "uniqCompNum": 10,
     "versionPublish": "4.6.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/ewen-01-128x170.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
